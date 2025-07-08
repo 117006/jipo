@@ -14,7 +14,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdtgD-JE1-iq2mq3fmd4FNZarSdvc4xx_PA&s">
   
 
-    <h2>¿Qué es Internet?</h2>
+<h2>¿Qué es Internet?</h2>
   <p>Es una red mundial de computadoras conectadas que permite compartir información y comunicarse.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8Yg6RPkGsiV4aSHaIwVlIYV96Ymn6oHrhw&s">
 
